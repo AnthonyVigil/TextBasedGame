@@ -23,7 +23,7 @@ def main():
              'Loading Area': {'West': 'HF-18 Entrance', 'North': 'Launching Area', 'item': 'Rockets'}
              }
 
-# Starting room
+# Starting area
     current_area = 'HF-18 Entrance'
 # List to store collected items
     inventory = []
